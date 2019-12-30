@@ -1,0 +1,2 @@
+(this["webpackJsonphello-webpack"]=this["webpackJsonphello-webpack"]||[]).push([[0],{3:function(e,n,r){e.exports=r(9)},8:function(e,n,r){},9:function(e,n,r){"use strict";r.r(n);var t=r(0),o=r(2),i=r.n(o);r(8);i.a.render(t.createElement((function(){return t.createElement("h1",null,"App Works!")}),null),document.getElementById("root")),"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/service-worker.js")}))}},[[3,1,2]]]);
+//# sourceMappingURL=main.1825dead.chunk.js.map
